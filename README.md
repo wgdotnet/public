@@ -1,2 +1,3 @@
 # public
-Publically available materials
+
+Publicly available materials for #wgdotnet
